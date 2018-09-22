@@ -11,7 +11,7 @@ structure for you.
 
 After cloning you'll have to run:
 
-`gem build photo_year.gemspec' _(This will build your gem)_
+`gem build photo_year.gemspec` _(This will build your gem)_
 
 and right after that
 
