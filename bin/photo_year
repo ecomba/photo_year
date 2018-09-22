@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'photo_year'
+
+PhotoYear.init(ARGV[0])
